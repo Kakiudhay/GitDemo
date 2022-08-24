@@ -75,6 +75,9 @@ package qaclickacademy.ExtentReports;
 	System.out.println("hello");
 
 	}
+	@Test
+	public void get() {
+		System.out.println("good");
 
 	}
 }
