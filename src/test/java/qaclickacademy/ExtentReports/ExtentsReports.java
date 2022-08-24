@@ -72,6 +72,7 @@ package qaclickacademy.ExtentReports;
 	//test.fail("Result do not match");
 
 	extent.flush();
+	System.out.println("hello");
 
 	}
 
