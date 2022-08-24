@@ -1,4 +1,4 @@
-package qaclickacademy;
+package qaclickacademy.ExtentReports;
 
 /**
  * Hello world!
